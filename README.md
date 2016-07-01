@@ -1,2 +1,5 @@
-# hello-world
-Ideas and upcoming projects
+# Ideas
+- predicting Westminster winners
+- Dog Shazam (breed recognition engine)
+
+# Project Pipeline
